@@ -1,0 +1,43 @@
+{
+"data":{
+"email":"batman@codigofacilito.com",
+"username":"batman",
+"certificates":[
+    {
+        "score":10,
+        "code":"c493465a-7eca-4b32-9644-le7d5fdd6814",
+        "title":"Curso  Profesional  de  Javascript"
+    }, {
+        "score":10,
+        "code":"c493465a-7eca-4b32-9644-le7d5fdd6815",
+        "title":"Curso  Profesional  de  Javascript"
+    }
+    ],
+    "articles":[],
+    "courses": [
+        {"title":"Curso de introduccion y fundamentos de React",
+            "progress":"2.0",
+            "url":"https://codigofacilito.com/courses/react"
+        },
+        {
+            "title":"Curso Profesional de JavaScript",
+            "progress": "100.0",
+            "url":"http ://codigofacilito.com/courses/javascript-profesional"
+        },
+        {
+            "title":"Curso de Fundamentos de React",
+            "progress":"100.0",
+            "url":"https://codigofacilito.com/cursos/react-intro-gratis"
+        }
+        ],
+        "finished_courses":[
+            {
+                "title":"Curso Profesional de JavaScript",
+                "url":"http ://codigofacilito.com/courses/javascript-profesional"},
+                {"title": "Curso de Fundamentos de React",
+                    "url":"https://codigofacilito.com/courses/react-intro-gratis"
+                }
+        ]
+    },
+    "errors":[]
+}
