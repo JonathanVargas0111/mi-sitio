@@ -1,0 +1,21 @@
+{
+    "slug" : "presencial",
+    "title" :"Formación Academica",
+    "description":"Formación académica, grados de estudio e instituciones a las que asisti",
+    "items" : [
+        {
+            "name" :"Corporación Universitaria Minuto de Dios Uniminuto",
+            "degree" : "Ingeniero de Sistemas",
+            "score" :"XX",
+            "description": "El Ingeniero de Sistemas formado en Uniminuto se desatara por su compromiso social, su habilidad para el manejo de la tecnología y su fundamentación en los conocimientos científicos propios de su disciplina."
+
+        },
+        {
+            "name" :"ANDAP",
+            "degree" : "Auxiliar en Mantenimiento Electrónico y Eléctrico",
+            "score" :"XX",
+            "description" :"El egresado en Técnico Laboral por Competencias Auxiliar en Mantenimiento Electrónico y Eléctrico desarrollara conocimientos y habilidades que le permitan desempeñarse como operador en mantenimiento de hardware, instalación de redes de cómputo, mantenimiento eléctrico y electrónico."
+        }
+    ]
+    
+}
