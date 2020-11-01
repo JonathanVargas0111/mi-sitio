@@ -1,4 +1,4 @@
-@tailwind base;
+    @tailwind base;
 
 @tailwind components;
 
@@ -21,4 +21,10 @@ body{
 
 .repos-list li{
     break-inside: avoid-column;
+}
+
+.vertical-text{
+    writing-mode: vertical-lr;
+    text-orientation: upright;
+    @apply bg-purple-700 text-gray-400  font-bold text-sm py-2 px-4 inline-block
 }

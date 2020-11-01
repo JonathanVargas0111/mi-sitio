@@ -1,0 +1,29 @@
+{
+    "slug" : "online",
+    "title" :"Cursos en línea",
+    "description":"Cursos finalizados en plataformas de educación en internet",
+    "items" : [
+        {
+            "name" :"Aprende Javascript ES9, HTML, CSS3 y NodeJS desde cero",
+            "url" : "https://www.udemy.com/course/aprende-javascript-es9-html-css3-y-nodejs-desde-cero/",
+            "platform" : "Udemy"
+        },
+        {
+            "name" :"Conviértete en desarrollador web full-stack",
+            "url" : "https://www.linkedin.com/learning/paths/conviertete-en-desarrollador-web-full-stack?u=84303994",
+            "platform": "linkedin-learning"
+        },
+        {
+            "name" :"Curso básico de SASS, CSS3, HTML5 y jQuery creando un sitio",
+            "url" : "https://www.udemy.com/course/aprende-html5-sass-y-jquery-creando-un-sitio-desde-cero/",
+            "platform" : "Udemy"
+        },
+        {
+            "name" :"Diseño Web Profesional Curso Práctico: HTML, LESS, FlexBox",
+            "url" : "https://www.udemy.com/course/diseno-web-profesional-curso-practico-html-less-flexbox/",
+            "platform" : "Udemy"
+        }
+    ]
+    
+}
+
